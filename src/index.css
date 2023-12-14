@@ -1,0 +1,25 @@
+.dropdown-link {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+body {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.container-fluid {
+  padding-top: 5px;
+}
+
+.row {
+  padding-bottom: 2px;
+}
+
+.row > div {
+  border: 1px solid black;
+}
+
+.row > div.no-border {
+  border: none;
+}
